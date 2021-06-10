@@ -35,3 +35,17 @@ I would have to say the development of this project was challenging as I was rew
 
 ---
 ## Documentation
+
+### Categories
+Here is the demo link to all the [Categories](https://youtu.be/SpEq1DenCpM) routes.
+
+### Products
+Here is the demo link to all the [Products](https://youtu.be/1xT4yvfVFRY) routes.
+
+### Tags
+Here is the demo link to all the [Tags](https://youtu.be/F2w0V5801YE) routes.
+
+---
+## Questions
+
+Questions please feel free to message me or email: bao.xiong2011@gmail.com
