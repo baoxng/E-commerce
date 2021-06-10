@@ -2,11 +2,12 @@
 
 ## Description
 This is a fully functional backend application perfect for a beginner's online E-commerce business store. With all the routes in this application users should be able to:
-`GET` : View all categories, products, product tags, and tags to an online store.
-`POST`: Create new categories, products, product tags, and tags to an online store.
-`PUT` : Update new or existing categories, products, product tags, and tags to an online store.
-`DELETE`: Delete categories, products, product tags, and tags to an online store.
-
+<ul>
+<li>GET : View all categories, products, product tags, and tags to an online store.</li>
+<li>POST: Create new categories, products, product tags, and tags to an online store. </li>
+<li>PUT : Update new or existing categories, products, product tags, and tags to an online store.</li>
+<li>DELETE: Delete categories, products, product tags, and tags to an online store.</li>
+</ul>
 ---
 ## Installation 
 
