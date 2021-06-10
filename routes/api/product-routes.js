@@ -48,8 +48,8 @@ router.get('/:id', async(req, res) => {
 router.post('/', (req, res) => {
   Product.create(req.body)
     .then((product) => {
+    //  req.body.tagIds = JSON.parse(req.body.tagIds);
       // if there's product tags, we need to create pairings to bulk create in the ProductTag model
-       req.body.tagIds = JSON.parse(req.body.tagIds);
       if (req.body.tagIds.length) {
         const productTagIdArr = req.body.tagIds.map((tag_id) => {
           return {
