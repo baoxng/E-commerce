@@ -8,7 +8,8 @@ This is a fully functional backend application perfect for a beginner's online E
 <li>PUT : Update new or existing categories, products, product tags, and tags to an online store.</li>
 <li>DELETE: Delete categories, products, product tags, and tags to an online store.</li>
 </ul>
----
+
+----
 ## Installation 
 
 Follow these links to `Download`, `Install` and `Link` the following tools in order to start developing a README generator.
